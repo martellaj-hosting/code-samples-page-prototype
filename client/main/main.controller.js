@@ -10,7 +10,16 @@
   function MainController ($log) {
     var vm = this;
     
-    vm.results = ['test1', 'test2', 'test3'];
+    // Properties
+    vm.showResults = false;
+    vm.results = [{ title: 'Foo', description: 'A great example on foo-ing.', url: 'http://www.github.com/OfficeDev/foo', stars: 2, forks: 0, language: 'Foo++' }, { title: 'Bar', description: 'A great example on bar-ing.', url: 'http://www.github.com/OfficeDev/bar', stars: 5, forks: 2, language: 'BarScript' }];
+    
+    // Methods
+    vm.search = search;
+    
+    function search () {
+      vm.showResults = true;
+    }
     
     /**
      * This function does any initialization work the

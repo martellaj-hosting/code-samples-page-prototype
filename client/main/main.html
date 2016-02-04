@@ -7,15 +7,23 @@
     <div class="input-group">
       <input type="text" class="form-control" placeholder="mail, ios">
       <span class="input-group-btn">
-        <button class="btn btn-primary" type="button">Search</button>
+        <button class="btn btn-primary" type="button" ng-click="main.search()">Search</button>
       </span>
     </div> <!-- /input-group -->
 
     <!-- Search results 
     ==================================== -->
-    <ul class="list-unstyled">
+    <ul class="list-unstyled" ng-show="main.showResults">
       <li ng-repeat="result in main.results">
-        {{ result }}
+        <div class="result">
+          <h2><a href="{{result.url}}" target="_blank">{{ result.title }}</a></h2>
+          <p><small>{{ result.stars }} stars | {{ result.forks }} forks</small></p>
+          <p><em>Language: {{ result.language }}</em></p>
+          <p class="lead">{{ result.description }}</p>
+        </div>
+        
+        <!-- Show divider, except for the last result. -->
+        <hr ng-show="$index !== main.results.length - 1" />
       </li>
     </ul>
   </div>
