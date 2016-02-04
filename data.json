@@ -1,0 +1,746 @@
+{
+  "data": {
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "nextPage": [
+        {
+          "title": "Google Custom Search - ios graph",
+          "totalResults": "340000",
+          "searchTerms": "ios graph",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "001554376850834171600:kra-ducthrw"
+        }
+      ],
+      "request": [
+        {
+          "title": "Google Custom Search - ios graph",
+          "totalResults": "340000",
+          "searchTerms": "ios graph",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "001554376850834171600:kra-ducthrw"
+        }
+      ]
+    },
+    "context": {
+      "title": "OfficeDev"
+    },
+    "searchInformation": {
+      "searchTime": 0.211262,
+      "formattedSearchTime": "0.21",
+      "totalResults": "340000",
+      "formattedTotalResults": "340,000"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "OfficeDev/O365-iOS-Microsoft-Graph-Connect ... - GitHub",
+        "htmlTitle": "OfficeDev/O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Connect ... - GitHub",
+        "link": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+        "displayLink": "github.com",
+        "snippet": "O365-iOS-Microsoft-Graph-Connect - This sample shows how to connect your \niOS app to Office 365 using the Microsoft Graph API to send an email.",
+        "htmlSnippet": "O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Connect - This sample shows how to connect your <br>\n<b>iOS</b> app to Office 365 using the Microsoft <b>Graph</b> API to send an email.",
+        "cacheId": "lJWP5AxfM28J",
+        "formattedUrl": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+        "htmlFormattedUrl": "https://github.com/OfficeDev/O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Connect",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "webpage": [
+            {
+              "keywords": "Objective-C",
+              "maincontentofpage": "Office 365 Connect Sample for iOS Using Microsoft Graph Connecting to Office 365 is the first step every iOS app must take to start working with Office 365 services and data. This sample shows..."
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+              "twitter:description": "O365-iOS-Microsoft-Graph-Connect - This sample shows how to connect your iOS app to Office 365 using the Microsoft Graph API to send an email.",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:title": "OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+              "og:url": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+              "og:description": "O365-iOS-Microsoft-Graph-Connect - This sample shows how to connect your iOS app to Office 365 using the Microsoft Graph API to send an email.",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F94009:1607:37D722:56A9A5B6",
+              "analytics-location": "/<user-name>/<repo-name>",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "1d85cc6663beb0333205556ff3867f1efdac4a03",
+              "go-import": "github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect git https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "42133268",
+              "octolytics-dimension-repository_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "42133268",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Connect"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "OfficeDev/Microsoft-Graph-SDK-iOS - Objecti... - GitHub",
+        "htmlTitle": "OfficeDev/Microsoft-<b>Graph</b>-SDK-<b>iOS</b> - Objecti... - GitHub",
+        "link": "https://github.com/OfficeDev/Microsoft-Graph-SDK-iOS",
+        "displayLink": "github.com",
+        "snippet": "Nov 18, 2015 ... Microsoft Graph SDK for iOS (preview). Contribute to Microsoft-Graph-SDK-iOS \ndevelopment by creating an account on GitHub.",
+        "htmlSnippet": "Nov 18, 2015 <b>...</b> Microsoft <b>Graph</b> SDK for <b>iOS</b> (preview). Contribute to Microsoft-<b>Graph</b>-SDK-<b>iOS</b> <br>\ndevelopment by creating an account on GitHub.",
+        "cacheId": "r5SXAeqcxygJ",
+        "formattedUrl": "https://github.com/OfficeDev/Microsoft-Graph-SDK-iOS",
+        "htmlFormattedUrl": "https://github.com/OfficeDev/Microsoft-<b>Graph</b>-SDK-<b>iOS</b>",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "webpage": [
+            {
+              "keywords": "Objective-C",
+              "maincontentofpage": "Microsoft Graph SDK for iOS (preview) Microsoft Graph (previously called Office 365 unified API) exposes multiple APIs from Microsoft cloud services through a single REST API endpoint (Microsoft..."
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/Microsoft-Graph-SDK-iOS",
+              "twitter:description": "Microsoft Graph SDK for iOS (preview). Contribute to Microsoft-Graph-SDK-iOS development by creating an account on GitHub.",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:title": "OfficeDev/Microsoft-Graph-SDK-iOS",
+              "og:url": "https://github.com/OfficeDev/Microsoft-Graph-SDK-iOS",
+              "og:description": "Microsoft Graph SDK for iOS (preview). Contribute to Microsoft-Graph-SDK-iOS development by creating an account on GitHub.",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F94BC5:09AC:392C7B:56B13493",
+              "analytics-location": "/<user-name>/<repo-name>",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "bf26ed70c74a16fc9545f1f61843c6e7a62c4caf",
+              "go-import": "github.com/OfficeDev/Microsoft-Graph-SDK-iOS git https://github.com/OfficeDev/Microsoft-Graph-SDK-iOS.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "46080924",
+              "octolytics-dimension-repository_nwo": "OfficeDev/Microsoft-Graph-SDK-iOS",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "46080924",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/Microsoft-Graph-SDK-iOS"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "GitHub - OfficeDev/O365-iOS-Microsoft-Graph-Snippets: This ...",
+        "htmlTitle": "GitHub - OfficeDev/O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Snippets: This <b>...</b>",
+        "link": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+        "displayLink": "github.com",
+        "snippet": "O365-iOS-Microsoft-Graph-Snippets - This sample shows how to use Microsoft \nGraph to send email, manage groups, and perform other activities with Office 365\n ...",
+        "htmlSnippet": "O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Snippets - This sample shows how to use Microsoft <br>\n<b>Graph</b> to send email, manage groups, and perform other activities with Office 365<br>\n&nbsp;...",
+        "cacheId": "FuZOSn-ZNpQJ",
+        "formattedUrl": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+        "htmlFormattedUrl": "https://github.com/OfficeDev/O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Snippets",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "webpage": [
+            {
+              "keywords": "Objective-C",
+              "maincontentofpage": "Office 365 iOS Microsoft Graph Snippets Introduction Microsoft Graph (previously called Office 365 unified API) exposes multiple APIs from Microsoft cloud services through a single REST API..."
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+              "twitter:description": "O365-iOS-Microsoft-Graph-Snippets - This sample shows how to use Microsoft Graph to send email, manage groups, and perform other activities with Office 365 data.",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:title": "OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+              "og:url": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+              "og:description": "O365-iOS-Microsoft-Graph-Snippets - This sample shows how to use Microsoft Graph to send email, manage groups, and perform other activities with Office 365 data.",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F94B7F:5D34:7A6BEA:56B1932A",
+              "analytics-location": "/<user-name>/<repo-name>",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "6a6dc96454077f3c1e6eb1b95d2088d0f8891987",
+              "go-import": "github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets git https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "42535635",
+              "octolytics-dimension-repository_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "42535635",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Snippets"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "GitHub - OfficeDev/O365-iOS-Microsoft-Graph-Profile: This sample ...",
+        "htmlTitle": "GitHub - OfficeDev/O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Profile: This sample <b>...</b>",
+        "link": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+        "displayLink": "github.com",
+        "snippet": "O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the \nuser directory and user profile data from various services like Active Directory, ...",
+        "htmlSnippet": "O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Profile - This sample uses Microsoft <b>Graph</b> to fetch the <br>\nuser directory and user profile data from various services like Active Directory,&nbsp;...",
+        "cacheId": "lqhTlFMuOAwJ",
+        "formattedUrl": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+        "htmlFormattedUrl": "https://github.com/OfficeDev/O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Profile",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "webpage": [
+            {
+              "keywords": "Objective-C",
+              "maincontentofpage": "Office 365 Microsoft Graph Profile Sample for iOS This sample uses Microsoft Graph (previously called Office 365 unified API) to fetch the user directory and user profile data from various..."
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "twitter:description": "O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the user directory and user profile data from various services like Active Directory, SharePoint, and OneDrive, and then...",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:title": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "og:url": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "og:description": "O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the user directory and user profile data from various services like Active Directory, SharePoint, and OneDrive, and then...",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F9404E:1B99:1CFA7EF:56AD96D9",
+              "analytics-location": "/<user-name>/<repo-name>",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "ac9e4ecbf666686597419741127e2a132831fbd7",
+              "go-import": "github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile git https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "34697962",
+              "octolytics-dimension-repository_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "34697962",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Profile"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "OfficeDev/AAD-Graph-SDK-iOS",
+        "htmlTitle": "OfficeDev/AAD-<b>Graph</b>-SDK-<b>iOS</b>",
+        "link": "https://github.com/OfficeDev/AAD-Graph-SDK-iOS",
+        "displayLink": "github.com",
+        "snippet": "Nov 18, 2015 ... Contribute to AAD-Graph-SDK-iOS development by creating an account on \nGitHub.",
+        "htmlSnippet": "Nov 18, 2015 <b>...</b> Contribute to AAD-<b>Graph</b>-SDK-<b>iOS</b> development by creating an account on <br>\nGitHub.",
+        "cacheId": "HlxYErHlUe8J",
+        "formattedUrl": "https://github.com/OfficeDev/AAD-Graph-SDK-iOS",
+        "htmlFormattedUrl": "https://github.com/OfficeDev/AAD-<b>Graph</b>-SDK-<b>iOS</b>",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "webpage": [
+            {
+              "keywords": "Objective-C",
+              "maincontentofpage": "AAD Graph SDK for iOS (Preview) Easily integrate services and data from AAD Graph into native iOS apps using this Objective-C library. NOTE: This code and associated binaries are released as..."
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/AAD-Graph-SDK-iOS",
+              "twitter:description": "Contribute to AAD-Graph-SDK-iOS development by creating an account on GitHub.",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:title": "OfficeDev/AAD-Graph-SDK-iOS",
+              "og:url": "https://github.com/OfficeDev/AAD-Graph-SDK-iOS",
+              "og:description": "Contribute to AAD-Graph-SDK-iOS development by creating an account on GitHub.",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F94BD5:4973:3559B82:56A1470B",
+              "analytics-location": "/<user-name>/<repo-name>",
+              "analytics-event": "Rails, view, files#disambiguate",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "5828305e882f8068107aa7fb17ebe35c28ef2628",
+              "go-import": "github.com/OfficeDev/AAD-Graph-SDK-iOS git https://github.com/OfficeDev/AAD-Graph-SDK-iOS.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "46080972",
+              "octolytics-dimension-repository_nwo": "OfficeDev/AAD-Graph-SDK-iOS",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "46080972",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/AAD-Graph-SDK-iOS"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "OfficeDev/Microsoft-Graph-SDK-iOS",
+        "htmlTitle": "OfficeDev/Microsoft-<b>Graph</b>-SDK-<b>iOS</b>",
+        "link": "https://github.com/OfficeDev/Microsoft-Graph-SDK-iOS/blob/master/MSGraph-SDK-iOS.podspec",
+        "displayLink": "github.com",
+        "snippet": "Microsoft Graph SDK for iOS (preview). Contribute to Microsoft-Graph-SDK-iOS \ndevelopment by creating an account on GitHub.",
+        "htmlSnippet": "Microsoft <b>Graph</b> SDK for <b>iOS</b> (preview). Contribute to Microsoft-<b>Graph</b>-SDK-<b>iOS</b> <br>\ndevelopment by creating an account on GitHub.",
+        "cacheId": "U__RSF6iUlQJ",
+        "formattedUrl": "https://github.com/...Graph-SDK-iOS/.../MSGraph-SDK-iOS.podspec",
+        "htmlFormattedUrl": "https://github.com/...<b>Graph</b>-SDK-<b>iOS</b>/.../MS<b>Graph</b>-SDK-<b>iOS</b>.podspec",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/Microsoft-Graph-SDK-iOS",
+              "twitter:description": "Microsoft Graph SDK for iOS (preview). Contribute to Microsoft-Graph-SDK-iOS development by creating an account on GitHub.",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:title": "OfficeDev/Microsoft-Graph-SDK-iOS",
+              "og:url": "https://github.com/OfficeDev/Microsoft-Graph-SDK-iOS",
+              "og:description": "Microsoft Graph SDK for iOS (preview). Contribute to Microsoft-Graph-SDK-iOS development by creating an account on GitHub.",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F94094:631E:9D98190:56A656D1",
+              "analytics-location": "/<user-name>/<repo-name>/blob/show",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "afc7d3b239de75e7f1a96afa36bc8e4c32902a73",
+              "go-import": "github.com/OfficeDev/Microsoft-Graph-SDK-iOS git https://github.com/OfficeDev/Microsoft-Graph-SDK-iOS.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "46080924",
+              "octolytics-dimension-repository_nwo": "OfficeDev/Microsoft-Graph-SDK-iOS",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "46080924",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/Microsoft-Graph-SDK-iOS"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+        "htmlTitle": "OfficeDev/O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Profile",
+        "link": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile/blob/master/O365-iOS-Profile.xcodeproj/xcuserdata/Uma.xcuserdatad/xcschemes/O365-iOS-Profile.xcscheme",
+        "displayLink": "github.com",
+        "snippet": "O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the \nuser directory and user profile data from various services like Active Directory, ...",
+        "htmlSnippet": "O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Profile - This sample uses Microsoft <b>Graph</b> to fetch the <br>\nuser directory and user profile data from various services like Active Directory,&nbsp;...",
+        "cacheId": "IEht0sj46GcJ",
+        "formattedUrl": "https://github.com/...iOS...Graph...iOS.../O365-iOS-Profile.xcscheme",
+        "htmlFormattedUrl": "https://github.com/...<b>iOS</b>...<b>Graph</b>...<b>iOS</b>.../O365-<b>iOS</b>-Profile.xcscheme",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "twitter:description": "O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the user directory and user profile data from various services like Active Directory, SharePoint, and OneDrive, and then...",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:title": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "og:url": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "og:description": "O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the user directory and user profile data from various services like Active Directory, SharePoint, and OneDrive, and then...",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F942B7:448B:4AE93702:568D7717",
+              "analytics-location": "/<user-name>/<repo-name>/blob/show",
+              "analytics-event": "Rails, view, blob#show",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "2a8620aa5c0f3207e88c28cc50716ce51e591553",
+              "go-import": "github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile git https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "34697962",
+              "octolytics-dimension-repository_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "34697962",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Profile"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Understanding the Connect code sample · OfficeDev/O365-iOS ...",
+        "htmlTitle": "Understanding the Connect code sample · OfficeDev/O365-<b>iOS</b> <b>...</b>",
+        "link": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect/wiki/Understanding-the-Connect-code-sample",
+        "displayLink": "github.com",
+        "snippet": "Nov 18, 2015 ... O365-iOS-Microsoft-Graph-Connect - This sample shows how to connect your \niOS app to Office 365 using the Microsoft Graph API to send an ...",
+        "htmlSnippet": "Nov 18, 2015 <b>...</b> O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Connect - This sample shows how to connect your <br>\n<b>iOS</b> app to Office 365 using the Microsoft <b>Graph</b> API to send an&nbsp;...",
+        "cacheId": "xtR7L9y92wcJ",
+        "formattedUrl": "https://github.com/...iOS...Graph.../Understanding-the-Connect-code-sample",
+        "htmlFormattedUrl": "https://github.com/...<b>iOS</b>...<b>Graph</b>.../Understanding-the-Connect-code-sample",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+              "twitter:description": "O365-iOS-Microsoft-Graph-Connect - This sample shows how to connect your iOS app to Office 365 using the Microsoft Graph API to send an email.",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:title": "OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+              "og:url": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+              "og:description": "O365-iOS-Microsoft-Graph-Connect - This sample shows how to connect your iOS app to Office 365 using the Microsoft Graph API to send an email.",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F9400F:495D:456215:56AA3CA8",
+              "analytics-location": "/<user-name>/<repo-name>/wiki/show",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "1dd399f526b6ef7fd533b836b214826f815d06b6",
+              "go-import": "github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect git https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Connect.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "42133268",
+              "octolytics-dimension-repository_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Connect",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "42133268",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Connect"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "O365-iOS-Microsoft-Graph-Profile/O365-iOS-Profile.xcodeproj at ...",
+        "htmlTitle": "O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Profile/O365-<b>iOS</b>-Profile.xcodeproj at <b>...</b>",
+        "link": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile/tree/master/O365-iOS-Profile.xcodeproj",
+        "displayLink": "github.com",
+        "snippet": "Nov 11, 2015 ... O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the \nuser directory and user profile data from various services like ...",
+        "htmlSnippet": "Nov 11, 2015 <b>...</b> O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Profile - This sample uses Microsoft <b>Graph</b> to fetch the <br>\nuser directory and user profile data from various services like&nbsp;...",
+        "cacheId": "QbnpGRVKhQEJ",
+        "formattedUrl": "https://github.com/...iOS...Graph.../tree/.../O365-iOS-Profile.xcodeproj",
+        "htmlFormattedUrl": "https://github.com/...<b>iOS</b>...<b>Graph</b>.../tree/.../O365-<b>iOS</b>-Profile.xcodeproj",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "twitter:description": "O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the user directory and user profile data from various services like Active Directory, SharePoint, and OneDrive, and then...",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:title": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "og:url": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "og:description": "O365-iOS-Microsoft-Graph-Profile - This sample uses Microsoft Graph to fetch the user directory and user profile data from various services like Active Directory, SharePoint, and OneDrive, and then...",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F9405A:4962:91CDB1:56A9D55A",
+              "analytics-location": "/<user-name>/<repo-name>/files/disambiguate",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "5111a8fb008aefc462e0279d5c841b1b62b0b5b2",
+              "go-import": "github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile git https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Profile.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "34697962",
+              "octolytics-dimension-repository_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Profile",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "34697962",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Profile"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "O365-iOS-Microsoft-Graph-Snippets/O365-iOS-Unified-API ...",
+        "htmlTitle": "O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Snippets/O365-<b>iOS</b>-Unified-API <b>...</b>",
+        "link": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets/tree/master/O365-iOS-Unified-API-Snippets",
+        "displayLink": "github.com",
+        "snippet": "Nov 17, 2015 ... O365-iOS-Microsoft-Graph-Snippets - This sample shows how to use Microsoft \nGraph to send email, manage groups, and perform other ...",
+        "htmlSnippet": "Nov 17, 2015 <b>...</b> O365-<b>iOS</b>-Microsoft-<b>Graph</b>-Snippets - This sample shows how to use Microsoft <br>\n<b>Graph</b> to send email, manage groups, and perform other&nbsp;...",
+        "cacheId": "16vKECyzCI0J",
+        "formattedUrl": "https://github.com/...iOS...Graph.../O365-iOS-Unified-API-Snippets",
+        "htmlFormattedUrl": "https://github.com/...<b>iOS</b>...<b>Graph</b>.../O365-<b>iOS</b>-Unified-API-Snippets",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400"
+            }
+          ],
+          "metatags": [
+            {
+              "viewport": "width=1020",
+              "fb:app_id": "1401488693436528",
+              "twitter:site": "@github",
+              "twitter:card": "summary",
+              "twitter:title": "OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+              "twitter:description": "O365-iOS-Microsoft-Graph-Snippets - This sample shows how to use Microsoft Graph to send email, manage groups, and perform other activities with Office 365 data.",
+              "twitter:image:src": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:site_name": "GitHub",
+              "og:type": "object",
+              "og:image": "https://avatars2.githubusercontent.com/u/6789362?v=3&s=400",
+              "og:title": "OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+              "og:url": "https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+              "og:description": "O365-iOS-Microsoft-Graph-Snippets - This sample shows how to use Microsoft Graph to send email, manage groups, and perform other activities with Office 365 data.",
+              "browser-stats-url": "https://api.github.com/_private/browser/stats",
+              "browser-errors-url": "https://api.github.com/_private/browser/errors",
+              "pjax-timeout": "1000",
+              "msapplication-tileimage": "/windows-tile.png",
+              "msapplication-tilecolor": "#ffffff",
+              "google-analytics": "UA-3769691-2",
+              "octolytics-host": "collector.githubapp.com",
+              "octolytics-app-id": "github",
+              "octolytics-dimension-request_id": "42F94026:23FB:40E1752:5691D110",
+              "analytics-location": "/<user-name>/<repo-name>/files/disambiguate",
+              "analytics-event": "Rails, view, files#disambiguate",
+              "dimension1": "Logged Out",
+              "hostname": "github.com",
+              "expected-hostname": "github.com",
+              "form-nonce": "7de1b648034e5f6de76fa2703a5f9d5570868094",
+              "go-import": "github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets git https://github.com/OfficeDev/O365-iOS-Microsoft-Graph-Snippets.git",
+              "octolytics-dimension-user_id": "6789362",
+              "octolytics-dimension-user_login": "OfficeDev",
+              "octolytics-dimension-repository_id": "42535635",
+              "octolytics-dimension-repository_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Snippets",
+              "octolytics-dimension-repository_public": "true",
+              "octolytics-dimension-repository_is_fork": "false",
+              "octolytics-dimension-repository_network_root_id": "42535635",
+              "octolytics-dimension-repository_network_root_nwo": "OfficeDev/O365-iOS-Microsoft-Graph-Snippets"
+            }
+          ],
+          "breadcrumb": [
+            {
+              "url": "OfficeDev",
+              "title": "OfficeDev"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "status": 200,
+  "config": {
+    "method": "GET",
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "url": "https://www.googleapis.com/customsearch/v1?q=ios%20graph&cx=001554376850834171600%3Akra-ducthrw&key=AIzaSyANkoMU3KYQb-ByhIACZF0hGylozYzzBFI",
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    }
+  },
+  "statusText": "OK"
+}

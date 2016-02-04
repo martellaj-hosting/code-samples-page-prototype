@@ -5,7 +5,7 @@
     <!-- Search query box 
     ==================================== -->
     <div class="input-group">
-      <input type="text" class="form-control" placeholder="mail, ios">
+      <input type="text" class="form-control" placeholder="mail, ios" ng-model="main.query">
       <span class="input-group-btn">
         <button class="btn btn-primary" type="button" ng-click="main.search()">Search</button>
       </span>
@@ -13,7 +13,7 @@
 
     <!-- Search results 
     ==================================== -->
-    <ul class="list-unstyled" ng-show="main.showResults">
+    <ul class="list-unstyled">
       <li ng-repeat="result in main.results">
         <div class="result">
           <h2><a href="{{result.url}}" target="_blank">{{ result.title }}</a></h2>
