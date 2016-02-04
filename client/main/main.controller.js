@@ -8,6 +8,10 @@
    */
   MainController.$inject = ['$log'];
   function MainController ($log) {
+    var vm = this;
+    
+    vm.results = ['test1', 'test2', 'test3'];
+    
     /**
      * This function does any initialization work the
      * controller needs.
