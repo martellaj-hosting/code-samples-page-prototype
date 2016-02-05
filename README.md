@@ -1,0 +1,1 @@
+The sole purpose of this repository is to host a prototype. Source code is located internally.
