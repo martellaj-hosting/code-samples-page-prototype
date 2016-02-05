@@ -21,8 +21,5 @@
       .otherwise({
         redirectTo: '/'
       });
-
-    // Make the URLs pretty.
-    $locationProvider.html5Mode(true);
   }
 })();
