@@ -8,3 +8,33 @@ hr {
   height: 1px;
   background-color: #333;
 }
+
+.navbar-inverse {
+  background-color: #DC3E15;
+  border-color: #DC3E15;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #B02B08;
+  border-color: #B02B08;
+}
+
+.btn-primary:hover, .btn-primary:active.btn-primary:focus, .btn-primary:focus {
+  color: #fff;
+  background-color: #EE6642;
+}
+
+a {
+  color: #881C00;
+  text-decoration: none;
+}
+
+a:hover, a:visited {
+  color: #EE6642;
+  text-decoration: none;
+}

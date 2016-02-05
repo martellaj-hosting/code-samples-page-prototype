@@ -13,6 +13,7 @@
     // Properties
     vm.query = '';
     vm.results = [];
+    vm.showEmptyResultsMessage = false;
     //vm.results = [{ title: 'Foo', description: 'A great example on foo-ing.', url: 'http://www.github.com/OfficeDev/foo', stars: 2, forks: 0, language: 'Foo++' }, { title: 'Bar', description: 'A great example on bar-ing.', url: 'http://www.github.com/OfficeDev/bar', stars: 5, forks: 2, language: 'BarScript' }];
     
     // Methods
@@ -27,6 +28,7 @@
      */
     function search () {
       vm.results = [];
+      vm.showEmptyResultsMessage = false;
       
       // Block empty searches.
       if (vm.query === '') {
@@ -37,9 +39,13 @@
         method: 'GET',
         url: 'https://www.googleapis.com/customsearch/v1?q=' + encodeURIComponent(vm.query) + '&cx=001554376850834171600%3Akra-ducthrw&key=AIzaSyANkoMU3KYQb-ByhIACZF0hGylozYzzBFI'
       }).then(function (response) {
-        var results = response.data.items;
-        var repos = getRepos(results);
-        getGitHubInfo(repos);
+        if (response.data.items) {
+          var results = response.data.items;
+          var repos = getRepos(results);
+          getGitHubInfo(repos);
+        } else {
+          vm.showEmptyResultsMessage = true;
+        }
       }, function (error) {
         // TODO: Handle error.
       });
@@ -55,7 +61,7 @@
      */
     function getRepos (results) {
       var repos = [];
-      
+        
       for (var i = 0; i < results.length; i++) {
         var repoName = results[i].link.split('/')[4];
         if (repos.indexOf(repoName) === -1) {
